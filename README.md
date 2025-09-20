@@ -5,7 +5,7 @@ Front-end for generating random user data
 
 ## Installation
 ```
-cd RandomUser && npm install
+cd RandomUser ; npm install
 ```
 
 ```
